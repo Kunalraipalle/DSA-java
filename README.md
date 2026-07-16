@@ -18,6 +18,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Kunalraipalle/DSA-java/tree/master/0127-word-ladder) |
 | [1331-rank-transform-of-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
@@ -47,4 +48,9 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Kunalraipalle/DSA-java/tree/master/0008-string-to-integer-atoi) |
+| [0127-word-ladder](https://github.com/Kunalraipalle/DSA-java/tree/master/0127-word-ladder) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Kunalraipalle/DSA-java/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
