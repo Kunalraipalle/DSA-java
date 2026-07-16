@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Kunalraipalle/DSA-java/tree/master/0231-power-of-two) |
 | [1025-divisor-game](https://github.com/Kunalraipalle/DSA-java/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kunalraipalle/DSA-java/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -34,4 +35,12 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Kunalraipalle/DSA-java/tree/master/1025-divisor-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Kunalraipalle/DSA-java/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Kunalraipalle/DSA-java/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
