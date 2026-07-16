@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Kunalraipalle/DSA-java/tree/master/0561-array-partition) |
 | [1331-rank-transform-of-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Kunalraipalle/DSA-java/tree/master/0561-array-partition) |
 | [1331-rank-transform-of-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1331-rank-transform-of-an-array) |
 ## Dynamic Programming
 |  |
@@ -59,4 +61,12 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Kunalraipalle/DSA-java/tree/master/0412-fizz-buzz) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Kunalraipalle/DSA-java/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Kunalraipalle/DSA-java/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
