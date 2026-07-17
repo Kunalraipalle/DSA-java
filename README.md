@@ -21,6 +21,7 @@
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Kunalraipalle/DSA-java/tree/master/0561-array-partition) |
 | [1331-rank-transform-of-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1331-rank-transform-of-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Kunalraipalle/DSA-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kunalraipalle/DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Kunalraipalle/DSA-java/tree/master/0561-array-partition) |
 | [1331-rank-transform-of-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1331-rank-transform-of-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Kunalraipalle/DSA-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kunalraipalle/DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
