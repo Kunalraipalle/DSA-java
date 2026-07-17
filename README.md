@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kunalraipalle/DSA-java/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Kunalraipalle/DSA-java/tree/master/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/Kunalraipalle/DSA-java/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kunalraipalle/DSA-java/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -17,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Kunalraipalle/DSA-java/tree/master/0561-array-partition) |
 | [1331-rank-transform-of-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kunalraipalle/DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -24,10 +26,12 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Kunalraipalle/DSA-java/tree/master/0127-word-ladder) |
+| [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Kunalraipalle/DSA-java/tree/master/0561-array-partition) |
 | [1331-rank-transform-of-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kunalraipalle/DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -47,6 +51,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kunalraipalle/DSA-java/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -78,4 +83,8 @@
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kunalraipalle/DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
