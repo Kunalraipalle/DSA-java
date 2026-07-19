@@ -9,6 +9,7 @@
 | [0412-fizz-buzz](https://github.com/Kunalraipalle/DSA-java/tree/master/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/Kunalraipalle/DSA-java/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/Kunalraipalle/DSA-java/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kunalraipalle/DSA-java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kunalraipalle/DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
