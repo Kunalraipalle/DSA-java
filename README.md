@@ -73,6 +73,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Kunalraipalle/DSA-java/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Kunalraipalle/DSA-java/tree/master/0014-longest-common-prefix) |
+| [0065-valid-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0065-valid-number) |
 | [0127-word-ladder](https://github.com/Kunalraipalle/DSA-java/tree/master/0127-word-ladder) |
 | [0412-fizz-buzz](https://github.com/Kunalraipalle/DSA-java/tree/master/0412-fizz-buzz) |
 ## Breadth-First Search
