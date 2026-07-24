@@ -3,17 +3,17 @@ class Solution {
         if (height == null || height.length == 0) return 0;
 
         int cur = 0, waterblock = 0, highpoll = 0, blblock = 0, poll = 1, trap = 0;
-        int maxIndex = 0;
+        int max = 0;
 
-        // Step 1: Find the true highest pillar peak
+      
         for (int i = 0; i < height.length; i++) {
             if (height[i] > highpoll) {
                 highpoll = height[i];
-                maxIndex = i;
+                max = i;
             }
         }
         highpoll = 0; 
-        for (int i = 0; i <= maxIndex; i++) {
+        for (int i = 0; i <= max; i++) {
             cur = height[i];
             
             if (cur >= highpoll) { 
@@ -30,7 +30,7 @@ class Solution {
 
         highpoll = 0; 
         waterblock = 0;
-        for (int i = height.length - 1; i >= maxIndex; i--) {
+        for (int i = height.length - 1; i >= max; i--) {
             cur = height[i];
             
             if (cur >= highpoll) {
