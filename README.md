@@ -25,6 +25,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kunalraipalle/DSA-java/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/Kunalraipalle/DSA-java/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Kunalraipalle/DSA-java/tree/master/0042-trapping-rain-water) |
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Kunalraipalle/DSA-java/tree/master/0561-array-partition) |
 | [1260-shift-2d-grid](https://github.com/Kunalraipalle/DSA-java/tree/master/1260-shift-2d-grid) |
@@ -52,6 +53,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kunalraipalle/DSA-java/tree/master/0042-trapping-rain-water) |
 | [1025-divisor-game](https://github.com/Kunalraipalle/DSA-java/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -100,6 +102,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kunalraipalle/DSA-java/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0202-happy-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kunalraipalle/DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -114,4 +117,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kunalraipalle/DSA-java/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Kunalraipalle/DSA-java/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Kunalraipalle/DSA-java/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
