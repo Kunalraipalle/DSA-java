@@ -27,6 +27,7 @@
 | [0014-longest-common-prefix](https://github.com/Kunalraipalle/DSA-java/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/Kunalraipalle/DSA-java/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Kunalraipalle/DSA-java/tree/master/0042-trapping-rain-water) |
+| [0169-majority-element](https://github.com/Kunalraipalle/DSA-java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Kunalraipalle/DSA-java/tree/master/0561-array-partition) |
 | [1260-shift-2d-grid](https://github.com/Kunalraipalle/DSA-java/tree/master/1260-shift-2d-grid) |
@@ -41,12 +42,14 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/Kunalraipalle/DSA-java/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/Kunalraipalle/DSA-java/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/Kunalraipalle/DSA-java/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Kunalraipalle/DSA-java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Kunalraipalle/DSA-java/tree/master/0561-array-partition) |
 | [1331-rank-transform-of-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1331-rank-transform-of-an-array) |
@@ -103,6 +106,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Kunalraipalle/DSA-java/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Kunalraipalle/DSA-java/tree/master/0561-array-partition) |
 ## Two Pointers
 |  |
@@ -135,4 +139,8 @@
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kunalraipalle/DSA-java/tree/master/2073-time-needed-to-buy-tickets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kunalraipalle/DSA-java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
