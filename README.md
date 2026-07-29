@@ -28,6 +28,7 @@
 | [0014-longest-common-prefix](https://github.com/Kunalraipalle/DSA-java/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/Kunalraipalle/DSA-java/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Kunalraipalle/DSA-java/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Kunalraipalle/DSA-java/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunalraipalle/DSA-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Kunalraipalle/DSA-java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
@@ -159,4 +160,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Kunalraipalle/DSA-java/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
