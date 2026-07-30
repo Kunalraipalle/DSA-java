@@ -1,12 +1,7 @@
 class Solution {
 
     int gcd(int a, int b) {
-        while (b != 0) {
-            int temp = b;
-            b = a % b;
-            a = temp;
-        }
-        return a;
+        return b == 0 ? a : gcd(b, a % b);
     }
 
     public String gcdOfStrings(String str1, String str2) {
