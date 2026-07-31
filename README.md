@@ -54,6 +54,7 @@
 | [0202-happy-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1331-rank-transform-of-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunalraipalle/DSA-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Kunalraipalle/DSA-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunalraipalle/DSA-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kunalraipalle/DSA-java/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kunalraipalle/DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -103,6 +105,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kunalraipalle/DSA-java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Kunalraipalle/DSA-java/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunalraipalle/DSA-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Breadth-First Search
 |  |
@@ -120,11 +123,13 @@
 | ------- |
 | [0561-array-partition](https://github.com/Kunalraipalle/DSA-java/tree/master/0561-array-partition) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunalraipalle/DSA-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kunalraipalle/DSA-java/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Kunalraipalle/DSA-java/tree/master/0561-array-partition) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunalraipalle/DSA-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
