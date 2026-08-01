@@ -8,6 +8,7 @@
 | [0231-power-of-two](https://github.com/Kunalraipalle/DSA-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Kunalraipalle/DSA-java/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/Kunalraipalle/DSA-java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kunalraipalle/DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/Kunalraipalle/DSA-java/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kunalraipalle/DSA-java/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -34,6 +35,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunalraipalle/DSA-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Kunalraipalle/DSA-java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/Kunalraipalle/DSA-java/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kunalraipalle/DSA-java/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kunalraipalle/DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Kunalraipalle/DSA-java/tree/master/0704-binary-search) |
@@ -74,6 +76,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kunalraipalle/DSA-java/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunalraipalle/DSA-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/Kunalraipalle/DSA-java/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Kunalraipalle/DSA-java/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -82,6 +85,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Kunalraipalle/DSA-java/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Kunalraipalle/DSA-java/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |
@@ -93,6 +97,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kunalraipalle/DSA-java/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Kunalraipalle/DSA-java/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
