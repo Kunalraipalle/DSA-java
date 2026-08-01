@@ -9,18 +9,9 @@ class Solution {
         if (l == r) {
             return nums[l];
         }
-        int pl = left(nums, l, r);
-        int pr = right(nums, l, r);
+        int pl =nums[r] - helper(nums, l, r - 1);
+        int pr = nums[l] - helper(nums, l + 1, r);
 
         return Math.max(pl, pr);
-    }
-
-    private int right(int nums[], int l, int r) {
-
-        return nums[r] - helper(nums, l, r - 1);
-    }
-
-    private int left(int nums[], int l, int r) {
-        return nums[l] - helper(nums, l + 1, r);
     }
 }
