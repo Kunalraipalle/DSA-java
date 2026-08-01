@@ -181,6 +181,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Kunalraipalle/DSA-java/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/Kunalraipalle/DSA-java/tree/master/0077-combinations) |
 ## Database
 |  |
 | ------- |
