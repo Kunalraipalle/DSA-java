@@ -181,4 +181,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Kunalraipalle/DSA-java/tree/master/0046-permutations) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Kunalraipalle/DSA-java/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
