@@ -12,6 +12,7 @@
 | [0486-predict-the-winner](https://github.com/Kunalraipalle/DSA-java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kunalraipalle/DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kunalraipalle/DSA-java/tree/master/0877-stone-game) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Kunalraipalle/DSA-java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/Kunalraipalle/DSA-java/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kunalraipalle/DSA-java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1406-stone-game-iii](https://github.com/Kunalraipalle/DSA-java/tree/master/1406-stone-game-iii) |
@@ -62,6 +63,7 @@
 | [0169-majority-element](https://github.com/Kunalraipalle/DSA-java/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Kunalraipalle/DSA-java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunalraipalle/DSA-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Kunalraipalle/DSA-java/tree/master/3731-find-missing-elements) |
@@ -212,4 +214,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Kunalraipalle/DSA-java/tree/master/1406-stone-game-iii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Kunalraipalle/DSA-java/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
