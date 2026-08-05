@@ -37,6 +37,7 @@
 | [0041-first-missing-positive](https://github.com/Kunalraipalle/DSA-java/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Kunalraipalle/DSA-java/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Kunalraipalle/DSA-java/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Kunalraipalle/DSA-java/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunalraipalle/DSA-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Kunalraipalle/DSA-java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Kunalraipalle/DSA-java/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Kunalraipalle/DSA-java/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Kunalraipalle/DSA-java/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Kunalraipalle/DSA-java/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0202-happy-number) |
@@ -70,6 +72,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Kunalraipalle/DSA-java/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Kunalraipalle/DSA-java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Kunalraipalle/DSA-java/tree/master/0561-array-partition) |
@@ -120,6 +123,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Kunalraipalle/DSA-java/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Kunalraipalle/DSA-java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Kunalraipalle/DSA-java/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Kunalraipalle/DSA-java/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0065-valid-number) |
 | [0127-word-ladder](https://github.com/Kunalraipalle/DSA-java/tree/master/0127-word-ladder) |
 | [0412-fizz-buzz](https://github.com/Kunalraipalle/DSA-java/tree/master/0412-fizz-buzz) |
