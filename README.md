@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Kunalraipalle/DSA-java/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Kunalraipalle/DSA-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
@@ -113,6 +114,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Kunalraipalle/DSA-java/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/Kunalraipalle/DSA-java/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Kunalraipalle/DSA-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
@@ -212,6 +214,7 @@
 | ------- |
 | [0046-permutations](https://github.com/Kunalraipalle/DSA-java/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Kunalraipalle/DSA-java/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/Kunalraipalle/DSA-java/tree/master/0089-gray-code) |
 ## Database
 |  |
 | ------- |
