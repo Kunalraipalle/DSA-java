@@ -114,6 +114,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Kunalraipalle/DSA-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
+| [0461-hamming-distance](https://github.com/Kunalraipalle/DSA-java/tree/master/0461-hamming-distance) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Recursion
 |  |
