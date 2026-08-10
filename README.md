@@ -17,6 +17,7 @@
 | [1025-divisor-game](https://github.com/Kunalraipalle/DSA-java/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kunalraipalle/DSA-java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1406-stone-game-iii](https://github.com/Kunalraipalle/DSA-java/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Kunalraipalle/DSA-java/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Kunalraipalle/DSA-java/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/Kunalraipalle/DSA-java/tree/master/2485-find-the-pivot-integer) |
@@ -102,6 +103,7 @@
 | [0877-stone-game](https://github.com/Kunalraipalle/DSA-java/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Kunalraipalle/DSA-java/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Kunalraipalle/DSA-java/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Kunalraipalle/DSA-java/tree/master/1510-stone-game-iv) |
 ## Brainteaser
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | [0877-stone-game](https://github.com/Kunalraipalle/DSA-java/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Kunalraipalle/DSA-java/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Kunalraipalle/DSA-java/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Kunalraipalle/DSA-java/tree/master/1510-stone-game-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -230,10 +233,12 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Kunalraipalle/DSA-java/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Kunalraipalle/DSA-java/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Kunalraipalle/DSA-java/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Kunalraipalle/DSA-java/tree/master/1510-stone-game-iv) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -242,4 +247,12 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3345-smallest-divisible-digit-product-i) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Kunalraipalle/DSA-java/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Kunalraipalle/DSA-java/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
