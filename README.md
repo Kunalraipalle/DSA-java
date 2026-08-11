@@ -20,6 +20,7 @@
 | [1510-stone-game-iv](https://github.com/Kunalraipalle/DSA-java/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Kunalraipalle/DSA-java/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/Kunalraipalle/DSA-java/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/Kunalraipalle/DSA-java/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/Kunalraipalle/DSA-java/tree/master/3280-convert-date-to-binary) |
