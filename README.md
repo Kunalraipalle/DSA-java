@@ -8,6 +8,7 @@
 | [0202-happy-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Kunalraipalle/DSA-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Kunalraipalle/DSA-java/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Kunalraipalle/DSA-java/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Kunalraipalle/DSA-java/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Kunalraipalle/DSA-java/tree/master/0486-predict-the-winner) |
@@ -119,10 +120,12 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Kunalraipalle/DSA-java/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Kunalraipalle/DSA-java/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Kunalraipalle/DSA-java/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Kunalraipalle/DSA-java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kunalraipalle/DSA-java/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Kunalraipalle/DSA-java/tree/master/1025-divisor-game) |
@@ -246,6 +249,7 @@
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Kunalraipalle/DSA-java/tree/master/0292-nim-game) |
 | [1406-stone-game-iii](https://github.com/Kunalraipalle/DSA-java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kunalraipalle/DSA-java/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
@@ -264,6 +268,7 @@
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Kunalraipalle/DSA-java/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/Kunalraipalle/DSA-java/tree/master/1510-stone-game-iv) |
 ## Sprague–Grundy Theorem
 |  |
@@ -273,4 +278,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Kunalraipalle/DSA-java/tree/master/0219-contains-duplicate-ii) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Kunalraipalle/DSA-java/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
