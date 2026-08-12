@@ -84,6 +84,7 @@
 | [0771-jewels-and-stones](https://github.com/Kunalraipalle/DSA-java/tree/master/0771-jewels-and-stones) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Kunalraipalle/DSA-java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1331-rank-transform-of-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/Kunalraipalle/DSA-java/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kunalraipalle/DSA-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunalraipalle/DSA-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Kunalraipalle/DSA-java/tree/master/3731-find-missing-elements) |
@@ -140,6 +141,7 @@
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/Kunalraipalle/DSA-java/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Kunalraipalle/DSA-java/tree/master/0693-binary-number-with-alternating-bits) |
+| [2351-first-letter-to-appear-twice](https://github.com/Kunalraipalle/DSA-java/tree/master/2351-first-letter-to-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Recursion
 |  |
@@ -161,6 +163,7 @@
 | [0771-jewels-and-stones](https://github.com/Kunalraipalle/DSA-java/tree/master/0771-jewels-and-stones) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kunalraipalle/DSA-java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Kunalraipalle/DSA-java/tree/master/1768-merge-strings-alternately) |
+| [2351-first-letter-to-appear-twice](https://github.com/Kunalraipalle/DSA-java/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunalraipalle/DSA-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3280-convert-date-to-binary](https://github.com/Kunalraipalle/DSA-java/tree/master/3280-convert-date-to-binary) |
@@ -187,6 +190,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Kunalraipalle/DSA-java/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Kunalraipalle/DSA-java/tree/master/0561-array-partition) |
+| [2351-first-letter-to-appear-twice](https://github.com/Kunalraipalle/DSA-java/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunalraipalle/DSA-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
