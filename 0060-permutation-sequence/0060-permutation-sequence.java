@@ -8,7 +8,7 @@ class Solution {
         }
 
        
-         List<List<Integer>> permutations= permute(nums);
+         List<List<Integer>> permutations= permute(nums,k);
 
          List<Integer> result = permutations.get(k-1);
           StringBuilder sb = new StringBuilder();
@@ -20,7 +20,7 @@ class Solution {
         
     }
 
-    private List<List<Integer>> permute(int[] nums) {
+    private List<List<Integer>> permute(int[] nums,int k) {
 
         if (nums == null || nums.length == 0) {
             return new ArrayList();
@@ -28,11 +28,14 @@ class Solution {
 
         List<List<Integer>> result = new ArrayList();
         boolean[] visited = new boolean[nums.length];
-        calcPermut(nums, result, visited, new ArrayList<>());
+        calcPermut(nums, result, visited, new ArrayList<>(),k);
         return result;
     }
 
-    private void calcPermut(int[] nums, List<List<Integer>> result, boolean[] visited, List<Integer> current) {
+    private void calcPermut(int[] nums, List<List<Integer>> result, boolean[] visited, List<Integer> current,int c) {
+        if(c==0){
+            return ;
+        }
         if (current.size() == nums.length) {
             result.add(new ArrayList<>(current));
             return;
@@ -45,10 +48,11 @@ class Solution {
 
             visited[i] = true;
             current.add(nums[i]);
-            calcPermut(nums, result, visited, current);
+            calcPermut(nums, result, visited, current,c);
             visited[i] = false;
             current.remove(current.size() - 1);
         }
+        c--;
     }
 }
 
