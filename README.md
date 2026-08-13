@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Kunalraipalle/DSA-java/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/Kunalraipalle/DSA-java/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Kunalraipalle/DSA-java/tree/master/0231-power-of-two) |
@@ -148,6 +149,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Kunalraipalle/DSA-java/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Kunalraipalle/DSA-java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kunalraipalle/DSA-java/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Kunalraipalle/DSA-java/tree/master/0486-predict-the-winner) |
