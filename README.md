@@ -67,6 +67,7 @@
 | [1406-stone-game-iii](https://github.com/Kunalraipalle/DSA-java/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Kunalraipalle/DSA-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1920-build-array-from-permutation](https://github.com/Kunalraipalle/DSA-java/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kunalraipalle/DSA-java/tree/master/2073-time-needed-to-buy-tickets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kunalraipalle/DSA-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -190,6 +191,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Kunalraipalle/DSA-java/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/Kunalraipalle/DSA-java/tree/master/1260-shift-2d-grid) |
+| [1920-build-array-from-permutation](https://github.com/Kunalraipalle/DSA-java/tree/master/1920-build-array-from-permutation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kunalraipalle/DSA-java/tree/master/2073-time-needed-to-buy-tickets) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kunalraipalle/DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
