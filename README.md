@@ -30,6 +30,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kunalraipalle/DSA-java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3516-find-closest-person](https://github.com/Kunalraipalle/DSA-java/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kunalraipalle/DSA-java/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kunalraipalle/DSA-java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kunalraipalle/DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
