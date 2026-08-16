@@ -36,6 +36,7 @@
 | [3516-find-closest-person](https://github.com/Kunalraipalle/DSA-java/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kunalraipalle/DSA-java/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kunalraipalle/DSA-java/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Kunalraipalle/DSA-java/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kunalraipalle/DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
