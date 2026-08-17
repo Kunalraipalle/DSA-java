@@ -64,6 +64,7 @@
 | [0414-third-maximum-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Kunalraipalle/DSA-java/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Kunalraipalle/DSA-java/tree/master/0561-array-partition) |
+| [0565-array-nesting](https://github.com/Kunalraipalle/DSA-java/tree/master/0565-array-nesting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kunalraipalle/DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Kunalraipalle/DSA-java/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Kunalraipalle/DSA-java/tree/master/0877-stone-game) |
@@ -329,4 +330,8 @@
 |  |
 | ------- |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Kunalraipalle/DSA-java/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+## Depth-First Search
+|  |
+| ------- |
+| [0565-array-nesting](https://github.com/Kunalraipalle/DSA-java/tree/master/0565-array-nesting) |
 <!---LeetCode Topics End-->
