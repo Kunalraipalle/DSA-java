@@ -18,6 +18,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/Kunalraipalle/DSA-java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/Kunalraipalle/DSA-java/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kunalraipalle/DSA-java/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kunalraipalle/DSA-java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Kunalraipalle/DSA-java/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kunalraipalle/DSA-java/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Kunalraipalle/DSA-java/tree/master/1406-stone-game-iii) |
