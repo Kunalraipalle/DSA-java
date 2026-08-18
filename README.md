@@ -23,6 +23,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kunalraipalle/DSA-java/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Kunalraipalle/DSA-java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kunalraipalle/DSA-java/tree/master/1510-stone-game-iv) |
+| [1688-count-of-matches-in-tournament](https://github.com/Kunalraipalle/DSA-java/tree/master/1688-count-of-matches-in-tournament) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Kunalraipalle/DSA-java/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Kunalraipalle/DSA-java/tree/master/2029-stone-game-ix) |
@@ -207,6 +208,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Kunalraipalle/DSA-java/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/Kunalraipalle/DSA-java/tree/master/1260-shift-2d-grid) |
+| [1688-count-of-matches-in-tournament](https://github.com/Kunalraipalle/DSA-java/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Kunalraipalle/DSA-java/tree/master/1920-build-array-from-permutation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kunalraipalle/DSA-java/tree/master/2073-time-needed-to-buy-tickets) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kunalraipalle/DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
