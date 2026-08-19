@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Kunalraipalle/DSA-java/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Kunalraipalle/DSA-java/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/Kunalraipalle/DSA-java/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Kunalraipalle/DSA-java/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Kunalraipalle/DSA-java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kunalraipalle/DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
@@ -248,6 +249,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Kunalraipalle/DSA-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kunalraipalle/DSA-java/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Kunalraipalle/DSA-java/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Kunalraipalle/DSA-java/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kunalraipalle/DSA-java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kunalraipalle/DSA-java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
