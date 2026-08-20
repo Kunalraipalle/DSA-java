@@ -117,6 +117,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kunalraipalle/DSA-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunalraipalle/DSA-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kunalraipalle/DSA-java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kunalraipalle/DSA-java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/Kunalraipalle/DSA-java/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -207,6 +208,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kunalraipalle/DSA-java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3280-convert-date-to-binary](https://github.com/Kunalraipalle/DSA-java/tree/master/3280-convert-date-to-binary) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kunalraipalle/DSA-java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -239,6 +241,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kunalraipalle/DSA-java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunalraipalle/DSA-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kunalraipalle/DSA-java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
