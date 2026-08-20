@@ -88,6 +88,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kunalraipalle/DSA-java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kunalraipalle/DSA-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kunalraipalle/DSA-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Kunalraipalle/DSA-java/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Kunalraipalle/DSA-java/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kunalraipalle/DSA-java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -216,6 +217,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/Kunalraipalle/DSA-java/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Kunalraipalle/DSA-java/tree/master/1920-build-array-from-permutation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kunalraipalle/DSA-java/tree/master/2073-time-needed-to-buy-tickets) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kunalraipalle/DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Kunalraipalle/DSA-java/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
