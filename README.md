@@ -75,6 +75,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Kunalraipalle/DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Kunalraipalle/DSA-java/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Kunalraipalle/DSA-java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Kunalraipalle/DSA-java/tree/master/0706-design-hashmap) |
 | [0877-stone-game](https://github.com/Kunalraipalle/DSA-java/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Kunalraipalle/DSA-java/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1331-rank-transform-of-an-array) |
@@ -111,6 +112,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Kunalraipalle/DSA-java/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
 | [0705-design-hashset](https://github.com/Kunalraipalle/DSA-java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Kunalraipalle/DSA-java/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/Kunalraipalle/DSA-java/tree/master/0771-jewels-and-stones) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Kunalraipalle/DSA-java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1331-rank-transform-of-an-array) |
@@ -370,12 +372,15 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Kunalraipalle/DSA-java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Kunalraipalle/DSA-java/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Kunalraipalle/DSA-java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Kunalraipalle/DSA-java/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Kunalraipalle/DSA-java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Kunalraipalle/DSA-java/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
