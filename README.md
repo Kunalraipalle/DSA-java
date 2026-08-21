@@ -82,6 +82,7 @@
 | [1406-stone-game-iii](https://github.com/Kunalraipalle/DSA-java/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kunalraipalle/DSA-java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kunalraipalle/DSA-java/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Kunalraipalle/DSA-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Kunalraipalle/DSA-java/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -205,6 +206,7 @@
 | [0709-to-lower-case](https://github.com/Kunalraipalle/DSA-java/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Kunalraipalle/DSA-java/tree/master/0771-jewels-and-stones) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kunalraipalle/DSA-java/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kunalraipalle/DSA-java/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Kunalraipalle/DSA-java/tree/master/1768-merge-strings-alternately) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kunalraipalle/DSA-java/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
