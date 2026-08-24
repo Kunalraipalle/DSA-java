@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/Kunalraipalle/DSA-java/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/Kunalraipalle/DSA-java/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Kunalraipalle/DSA-java/tree/master/0168-excel-sheet-column-title) |
