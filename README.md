@@ -65,6 +65,7 @@
 | [0118-pascals-triangle](https://github.com/Kunalraipalle/DSA-java/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunalraipalle/DSA-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Kunalraipalle/DSA-java/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunalraipalle/DSA-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Kunalraipalle/DSA-java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kunalraipalle/DSA-java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kunalraipalle/DSA-java/tree/master/0219-contains-duplicate-ii) |
@@ -259,6 +260,7 @@
 | [0042-trapping-rain-water](https://github.com/Kunalraipalle/DSA-java/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Kunalraipalle/DSA-java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kunalraipalle/DSA-java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunalraipalle/DSA-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0202-happy-number) |
 | [1768-merge-strings-alternately](https://github.com/Kunalraipalle/DSA-java/tree/master/1768-merge-strings-alternately) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Kunalraipalle/DSA-java/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -268,6 +270,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kunalraipalle/DSA-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kunalraipalle/DSA-java/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunalraipalle/DSA-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kunalraipalle/DSA-java/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Kunalraipalle/DSA-java/tree/master/0441-arranging-coins) |
