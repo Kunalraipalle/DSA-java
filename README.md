@@ -80,6 +80,7 @@
 | [0877-stone-game](https://github.com/Kunalraipalle/DSA-java/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Kunalraipalle/DSA-java/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1331-rank-transform-of-an-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kunalraipalle/DSA-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1406-stone-game-iii](https://github.com/Kunalraipalle/DSA-java/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kunalraipalle/DSA-java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -271,12 +272,14 @@
 | [0367-valid-perfect-square](https://github.com/Kunalraipalle/DSA-java/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Kunalraipalle/DSA-java/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Kunalraipalle/DSA-java/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kunalraipalle/DSA-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kunalraipalle/DSA-java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kunalraipalle/DSA-java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Kunalraipalle/DSA-java/tree/master/1260-shift-2d-grid) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kunalraipalle/DSA-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Trie
 |  |
 | ------- |
