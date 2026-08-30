@@ -71,6 +71,7 @@
 | [0169-majority-element](https://github.com/Kunalraipalle/DSA-java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kunalraipalle/DSA-java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kunalraipalle/DSA-java/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Kunalraipalle/DSA-java/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Kunalraipalle/DSA-java/tree/master/0486-predict-the-winner) |
@@ -308,6 +309,7 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Kunalraipalle/DSA-java/tree/master/0239-sliding-window-maximum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kunalraipalle/DSA-java/tree/master/2073-time-needed-to-buy-tickets) |
 ## Divide and Conquer
 |  |
@@ -317,6 +319,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Kunalraipalle/DSA-java/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
@@ -372,6 +375,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Kunalraipalle/DSA-java/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Kunalraipalle/DSA-java/tree/master/0239-sliding-window-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kunalraipalle/DSA-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kunalraipalle/DSA-java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Impartial Game
@@ -409,4 +413,12 @@
 | ------- |
 | [0705-design-hashset](https://github.com/Kunalraipalle/DSA-java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Kunalraipalle/DSA-java/tree/master/0706-design-hashmap) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Kunalraipalle/DSA-java/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Kunalraipalle/DSA-java/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
