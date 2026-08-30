@@ -26,6 +26,7 @@
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Kunalraipalle/DSA-java/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kunalraipalle/DSA-java/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Kunalraipalle/DSA-java/tree/master/1406-stone-game-iii) |
+| [1492-the-kth-factor-of-n](https://github.com/Kunalraipalle/DSA-java/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/Kunalraipalle/DSA-java/tree/master/1510-stone-game-iv) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kunalraipalle/DSA-java/tree/master/1688-count-of-matches-in-tournament) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Kunalraipalle/DSA-java/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -50,6 +51,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Kunalraipalle/DSA-java/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kunalraipalle/DSA-java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kunalraipalle/DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -421,4 +423,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kunalraipalle/DSA-java/tree/master/0239-sliding-window-maximum) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Kunalraipalle/DSA-java/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
