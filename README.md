@@ -126,6 +126,7 @@
 | [0217-contains-duplicate](https://github.com/Kunalraipalle/DSA-java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kunalraipalle/DSA-java/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kunalraipalle/DSA-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0705-design-hashset](https://github.com/Kunalraipalle/DSA-java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Kunalraipalle/DSA-java/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/Kunalraipalle/DSA-java/tree/master/0771-jewels-and-stones) |
@@ -220,6 +221,7 @@
 | [0065-valid-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0065-valid-number) |
 | [0127-word-ladder](https://github.com/Kunalraipalle/DSA-java/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/Kunalraipalle/DSA-java/tree/master/0168-excel-sheet-column-title) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kunalraipalle/DSA-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Kunalraipalle/DSA-java/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kunalraipalle/DSA-java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Kunalraipalle/DSA-java/tree/master/0709-to-lower-case) |
@@ -265,6 +267,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kunalraipalle/DSA-java/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kunalraipalle/DSA-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Kunalraipalle/DSA-java/tree/master/0561-array-partition) |
 | [1189-maximum-number-of-balloons](https://github.com/Kunalraipalle/DSA-java/tree/master/1189-maximum-number-of-balloons) |
 | [2029-stone-game-ix](https://github.com/Kunalraipalle/DSA-java/tree/master/2029-stone-game-ix) |
@@ -320,6 +323,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kunalraipalle/DSA-java/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kunalraipalle/DSA-java/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kunalraipalle/DSA-java/tree/master/2073-time-needed-to-buy-tickets) |
 ## Divide and Conquer
 |  |
