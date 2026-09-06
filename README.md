@@ -167,6 +167,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kunalraipalle/DSA-java/tree/master/0042-trapping-rain-water) |
+| [0115-distinct-subsequences](https://github.com/Kunalraipalle/DSA-java/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Kunalraipalle/DSA-java/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunalraipalle/DSA-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Kunalraipalle/DSA-java/tree/master/0486-predict-the-winner) |
@@ -219,6 +220,7 @@
 | [0020-valid-parentheses](https://github.com/Kunalraipalle/DSA-java/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Kunalraipalle/DSA-java/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0065-valid-number) |
+| [0115-distinct-subsequences](https://github.com/Kunalraipalle/DSA-java/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Kunalraipalle/DSA-java/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/Kunalraipalle/DSA-java/tree/master/0168-excel-sheet-column-title) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunalraipalle/DSA-java/tree/master/0387-first-unique-character-in-a-string) |
