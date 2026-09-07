@@ -100,6 +100,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kunalraipalle/DSA-java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kunalraipalle/DSA-java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kunalraipalle/DSA-java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Kunalraipalle/DSA-java/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2574-left-and-right-sum-differences](https://github.com/Kunalraipalle/DSA-java/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kunalraipalle/DSA-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/Kunalraipalle/DSA-java/tree/master/2974-minimum-number-game) |
@@ -155,6 +156,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Kunalraipalle/DSA-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kunalraipalle/DSA-java/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Kunalraipalle/DSA-java/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2974-minimum-number-game](https://github.com/Kunalraipalle/DSA-java/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kunalraipalle/DSA-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunalraipalle/DSA-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -308,6 +310,7 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Kunalraipalle/DSA-java/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kunalraipalle/DSA-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Kunalraipalle/DSA-java/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Trie
 |  |
 | ------- |
