@@ -18,6 +18,7 @@
 | [0441-arranging-coins](https://github.com/Kunalraipalle/DSA-java/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Kunalraipalle/DSA-java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kunalraipalle/DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Kunalraipalle/DSA-java/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Kunalraipalle/DSA-java/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Kunalraipalle/DSA-java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/Kunalraipalle/DSA-java/tree/master/1025-divisor-game) |
@@ -446,4 +447,8 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Kunalraipalle/DSA-java/tree/master/1492-the-kth-factor-of-n) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Kunalraipalle/DSA-java/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
