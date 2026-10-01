@@ -455,4 +455,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Kunalraipalle/DSA-java/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kunalraipalle/DSA-java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
