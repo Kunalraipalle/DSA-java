@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Kunalraipalle/DSA-java/tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/Kunalraipalle/DSA-java/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/Kunalraipalle/DSA-java/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Kunalraipalle/DSA-java/tree/master/0168-excel-sheet-column-title) |
@@ -122,6 +123,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Kunalraipalle/DSA-java/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/Kunalraipalle/DSA-java/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Kunalraipalle/DSA-java/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Kunalraipalle/DSA-java/tree/master/0127-word-ladder) |
@@ -221,6 +223,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Kunalraipalle/DSA-java/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Kunalraipalle/DSA-java/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Kunalraipalle/DSA-java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Kunalraipalle/DSA-java/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Kunalraipalle/DSA-java/tree/master/0049-group-anagrams) |
