@@ -44,6 +44,7 @@
 | [3280-convert-date-to-binary](https://github.com/Kunalraipalle/DSA-java/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kunalraipalle/DSA-java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Kunalraipalle/DSA-java/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3516-find-closest-person](https://github.com/Kunalraipalle/DSA-java/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kunalraipalle/DSA-java/tree/master/3536-maximum-product-of-two-digits) |
@@ -114,6 +115,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Kunalraipalle/DSA-java/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kunalraipalle/DSA-java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Kunalraipalle/DSA-java/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kunalraipalle/DSA-java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Kunalraipalle/DSA-java/tree/master/3731-find-missing-elements) |
@@ -367,6 +369,7 @@
 | [1872-stone-game-viii](https://github.com/Kunalraipalle/DSA-java/tree/master/1872-stone-game-viii) |
 | [2485-find-the-pivot-integer](https://github.com/Kunalraipalle/DSA-java/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Kunalraipalle/DSA-java/tree/master/2574-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Kunalraipalle/DSA-java/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Minimax
 |  |
 | ------- |
