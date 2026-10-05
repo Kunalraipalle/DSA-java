@@ -238,6 +238,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kunalraipalle/DSA-java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Kunalraipalle/DSA-java/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Kunalraipalle/DSA-java/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/Kunalraipalle/DSA-java/tree/master/0856-score-of-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kunalraipalle/DSA-java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Kunalraipalle/DSA-java/tree/master/1189-maximum-number-of-balloons) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kunalraipalle/DSA-java/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -331,6 +332,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kunalraipalle/DSA-java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kunalraipalle/DSA-java/tree/master/0042-trapping-rain-water) |
+| [0856-score-of-parentheses](https://github.com/Kunalraipalle/DSA-java/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -465,4 +467,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kunalraipalle/DSA-java/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Kunalraipalle/DSA-java/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
