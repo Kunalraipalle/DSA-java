@@ -88,6 +88,7 @@
 | [0704-binary-search](https://github.com/Kunalraipalle/DSA-java/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Kunalraipalle/DSA-java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Kunalraipalle/DSA-java/tree/master/0706-design-hashmap) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Kunalraipalle/DSA-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Kunalraipalle/DSA-java/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Kunalraipalle/DSA-java/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1331-rank-transform-of-an-array) |
@@ -318,6 +319,7 @@
 | [0367-valid-perfect-square](https://github.com/Kunalraipalle/DSA-java/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Kunalraipalle/DSA-java/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Kunalraipalle/DSA-java/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Kunalraipalle/DSA-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kunalraipalle/DSA-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kunalraipalle/DSA-java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kunalraipalle/DSA-java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -474,4 +476,8 @@
 | [0020-valid-parentheses](https://github.com/Kunalraipalle/DSA-java/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Kunalraipalle/DSA-java/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Kunalraipalle/DSA-java/tree/master/1021-remove-outermost-parentheses) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Kunalraipalle/DSA-java/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
