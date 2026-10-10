@@ -82,6 +82,7 @@
 | [0283-move-zeroes](https://github.com/Kunalraipalle/DSA-java/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Kunalraipalle/DSA-java/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/Kunalraipalle/DSA-java/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Kunalraipalle/DSA-java/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/Kunalraipalle/DSA-java/tree/master/0565-array-nesting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kunalraipalle/DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
@@ -137,6 +138,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Kunalraipalle/DSA-java/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunalraipalle/DSA-java/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Kunalraipalle/DSA-java/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/Kunalraipalle/DSA-java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Kunalraipalle/DSA-java/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/Kunalraipalle/DSA-java/tree/master/0771-jewels-and-stones) |
@@ -338,12 +340,14 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kunalraipalle/DSA-java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kunalraipalle/DSA-java/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Kunalraipalle/DSA-java/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/Kunalraipalle/DSA-java/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Kunalraipalle/DSA-java/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kunalraipalle/DSA-java/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Kunalraipalle/DSA-java/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
