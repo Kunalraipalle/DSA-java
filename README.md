@@ -90,6 +90,7 @@
 | [0705-design-hashset](https://github.com/Kunalraipalle/DSA-java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Kunalraipalle/DSA-java/tree/master/0706-design-hashmap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kunalraipalle/DSA-java/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/Kunalraipalle/DSA-java/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Kunalraipalle/DSA-java/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Kunalraipalle/DSA-java/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Kunalraipalle/DSA-java/tree/master/1331-rank-transform-of-an-array) |
@@ -267,6 +268,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Kunalraipalle/DSA-java/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/Kunalraipalle/DSA-java/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Kunalraipalle/DSA-java/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kunalraipalle/DSA-java/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Kunalraipalle/DSA-java/tree/master/1920-build-array-from-permutation) |
@@ -329,6 +331,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Kunalraipalle/DSA-java/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Kunalraipalle/DSA-java/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kunalraipalle/DSA-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Kunalraipalle/DSA-java/tree/master/2545-sort-the-students-by-their-kth-score) |
