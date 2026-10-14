@@ -344,6 +344,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kunalraipalle/DSA-java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kunalraipalle/DSA-java/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/Kunalraipalle/DSA-java/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Kunalraipalle/DSA-java/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/Kunalraipalle/DSA-java/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Kunalraipalle/DSA-java/tree/master/1021-remove-outermost-parentheses) |
@@ -355,6 +356,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Kunalraipalle/DSA-java/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Kunalraipalle/DSA-java/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunalraipalle/DSA-java/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kunalraipalle/DSA-java/tree/master/2073-time-needed-to-buy-tickets) |
@@ -456,6 +458,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Kunalraipalle/DSA-java/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/Kunalraipalle/DSA-java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Kunalraipalle/DSA-java/tree/master/0706-design-hashmap) |
 ## Hash Function
