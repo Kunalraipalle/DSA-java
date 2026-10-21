@@ -265,6 +265,7 @@
 | [3280-convert-date-to-binary](https://github.com/Kunalraipalle/DSA-java/tree/master/3280-convert-date-to-binary) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kunalraipalle/DSA-java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Kunalraipalle/DSA-java/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
