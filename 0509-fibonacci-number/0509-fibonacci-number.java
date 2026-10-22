@@ -1,9 +1,18 @@
 class Solution {
+    int[] dp;
     public int fib(int n) {
-        if(n==0|| n==1){
+        dp=new int[n+1];
+        return fibo(n);
+    }
+    public int fibo(int n){
+        if(n<=1){
             return n;
         }
-        return fib(n-1)+fib(n-2);
+        if(dp[n]!=0){
+            return dp[n];
+        }
+        dp[n]=fibo(n-1)+fibo(n-2);
+        return dp[n];
         
     }
 }
