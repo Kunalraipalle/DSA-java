@@ -230,6 +230,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Kunalraipalle/DSA-java/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/Kunalraipalle/DSA-java/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Kunalraipalle/DSA-java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kunalraipalle/DSA-java/tree/master/0326-power-of-three) |
@@ -464,6 +465,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Kunalraipalle/DSA-java/tree/master/0021-merge-two-sorted-lists) |
 | [0705-design-hashset](https://github.com/Kunalraipalle/DSA-java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Kunalraipalle/DSA-java/tree/master/0706-design-hashmap) |
 ## Design
