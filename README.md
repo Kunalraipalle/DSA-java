@@ -394,6 +394,7 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Kunalraipalle/DSA-java/tree/master/0176-second-highest-salary) |
+| [0584-find-customer-referee](https://github.com/Kunalraipalle/DSA-java/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Kunalraipalle/DSA-java/tree/master/0620-not-boring-movies) |
 ## Prefix Sum
 |  |
