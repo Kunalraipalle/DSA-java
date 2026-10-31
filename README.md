@@ -40,6 +40,7 @@
 | [2469-convert-the-temperature](https://github.com/Kunalraipalle/DSA-java/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/Kunalraipalle/DSA-java/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/Kunalraipalle/DSA-java/tree/master/2544-alternating-digit-sum) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Kunalraipalle/DSA-java/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Kunalraipalle/DSA-java/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/Kunalraipalle/DSA-java/tree/master/3280-convert-date-to-binary) |
