@@ -88,6 +88,7 @@
 | [0561-array-partition](https://github.com/Kunalraipalle/DSA-java/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/Kunalraipalle/DSA-java/tree/master/0565-array-nesting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kunalraipalle/DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Kunalraipalle/DSA-java/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Kunalraipalle/DSA-java/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Kunalraipalle/DSA-java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Kunalraipalle/DSA-java/tree/master/0706-design-hashmap) |
