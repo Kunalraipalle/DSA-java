@@ -460,6 +460,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Kunalraipalle/DSA-java/tree/master/0110-balanced-binary-tree) |
 | [0565-array-nesting](https://github.com/Kunalraipalle/DSA-java/tree/master/0565-array-nesting) |
 ## Quicksort
 |  |
@@ -524,4 +525,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Kunalraipalle/DSA-java/tree/master/0509-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Kunalraipalle/DSA-java/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Kunalraipalle/DSA-java/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
